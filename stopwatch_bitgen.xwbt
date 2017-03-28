@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\Xilinx Projects\FPGA-stopwatch\stopwatch.ncd
+OUTFILE=E:\Xilinx Projects\FPGA-stopwatch\stopwatch.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=E:\Xilinx Projects\FPGA-stopwatch
+LICENSE=WebPack
+USER_INFO=211152735_0_0_933
