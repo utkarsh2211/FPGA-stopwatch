@@ -18,7 +18,7 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module stpwatch(
+module stopwatch(
     output reg [3:0]count,
 	 input clk,
 	 input reset,
